@@ -9,4 +9,4 @@ GPIO14  --   D5    -> SCLK
 GPIO05  --   D1    -> RESET hard
 
 # Example based on NodeMCU
-AD770X TM7705(2.5, D8, D7, D6, D5, D1);
+AD770X TM7705(2.5, D8, D7, D6, D5, D1)
